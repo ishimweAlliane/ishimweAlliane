@@ -28,7 +28,7 @@ A Python project demonstrating **arrays** to store and manipulate numeric data, 
  🛠 How to Run
 
 # Clone the repo
-git clone <>
+git clone <https://github.com/ishimweAlliane/ishimweAlliane/blob/c76638abe3d2270b543ed3a024bbd68c080a776f/sitting_plan.py>
 
 # Navigate to project folder
 cd <sitting_plann>
