@@ -14,4 +14,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email address; ishimwealiane913@gmail.com
 - 😄 Pronouns: she/her/miss
 - ⚡ Fun fact: I love combining traditional African patterns with modern styles and exploring new ways to make fashion tech-savvy.
+# 🌟 Array Project
 
+ 📝 Description of my first project on python called sitting plan
+A Python project demonstrating **arrays** to store and manipulate numeric data, including **adding, removing, sorting**, and **displaying elements**. Perfect for beginners! 🚀
+
+ ⚡ Features
+ ➕ Add elements  
+ ❌ Remove elements  
+ 🔢 Sort elements  
+ 👀 Display arrays  
+ 🎯 Easy to understand
+ 🛠 How to Run
+
+# Clone the repo
+git clone <>
+
+# Navigate to project folder
+cd <sitting_plann>
+
+# Run the Python file
+python sitting_plan.py
